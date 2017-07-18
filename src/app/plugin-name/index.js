@@ -1,0 +1,1 @@
+export { default as PluginName } from './plugin-name';
